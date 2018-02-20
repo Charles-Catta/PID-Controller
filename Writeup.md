@@ -17,3 +17,7 @@ The parameters were tuned manually using the intuition mentioned above.
 for example:
   If the car is oscillating, the weight controlling the proportional term is most probably too high making the car arrive at the center line with a large angle of attack.
 
+
+## Room for improvement
+
+Using a simple algorithm like twiddle could help in finding more optimal settings for our three gains 
